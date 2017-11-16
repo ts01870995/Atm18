@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Atm3</string>
+    <string name="action_settings">Settings</string>
+    <array name="functions">
+        <item>餘額查詢</item>
+        <item>交易明細</item>
+        <item>最新消息</item>
+        <item>投資理財</item>
+        <item>離開</item>
+    </array>
+    <string name="title_activity_finance">FinanceActivity</string>
+</resources>
